@@ -197,4 +197,7 @@ a:hover {
         -ms-flex-pack: center;
             justify-content: center;
   }
+  .guide {
+    width: 95%;
+  }
 }

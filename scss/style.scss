@@ -1,5 +1,4 @@
 @import "utilities";
-@import "mobile";
 @import "mixins";
 
 //VARIABLES
@@ -128,3 +127,5 @@ a:hover {
     @include font(700, 16px, 18px);
   }
 }
+
+@import "mobile";
